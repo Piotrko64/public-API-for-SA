@@ -11,7 +11,7 @@ https://apiforsa.herokuapp.com/read/onlyAMB
 - read/tagsAMB <--only tags for Ambience
 https://apiforsa.herokuapp.com/read/tagsAMB
 
-Sound Effects
+SOUND EFFECTS
 - read/onlySE
 https://apiforsa.herokuapp.com/read/onlySE
 
